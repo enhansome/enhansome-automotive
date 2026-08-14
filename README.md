@@ -89,7 +89,7 @@
 
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
-* [as](https://github.com/autoas/as) ⭐ 914 | 🐛 3 | 🌐 C | 📅 2026-08-02 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+* [as](https://github.com/autoas/as) ⭐ 915 | 🐛 3 | 🌐 C | 📅 2026-08-02 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
 * [autosar](https://github.com/cogu/autosar) ⭐ 499 | 🐛 5 | 🌐 Python | 📅 2026-08-10 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
@@ -277,7 +277,7 @@
 * `2011` [ISO/IEC/IEEE42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) ![pdf] - Systems and software engineering - Architecture description.
 * `2008` [Automotive real time development using a timing-augmented AUTOSAR specification](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) ![pdf]
 * `1998` [IEEE Std 1016](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) ![pdf] - IEEE Recommended Practice for Software Design Descriptions.
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,862 | 🐛 1 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,863 | 🐛 1 | 📅 2026-04-19 ![awesome]
 
 ## Requirements engineering
 
@@ -310,10 +310,10 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,750 | 🐛 312 | 📅 2026-08-04 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 8,969 | 🐛 2 | 📅 2026-08-12 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,759 | 🐛 312 | 📅 2026-08-04 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 8,975 | 🐛 2 | 📅 2026-08-12 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
-* [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 400 | 🐛 4 | 📅 2025-04-29 ![awesome]
+* [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
 * `2019` [Safe Software for Autonomous Mobility With Modern C++](https://www.youtube.com/watch?v=5WbdLUc9Jls) ![video] - Andreas Pasternak, CppCon.
 * `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware](https://www.youtube.com/watch?v=F4GzsA00s5I) ![video] - Michael Wong, CppCon.
@@ -350,9 +350,9 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 38,920 | 🐛 488 | 🌐 C++ | 📅 2026-08-12 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,920 | 🐛 488 | 🌐 C++ | 📅 2026-08-12 ![github] - Google's framework for writing and using C++ mock classes.
-* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 930 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
+* [Google Test](https://github.com/google/googletest) ⭐ 38,924 | 🐛 491 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,924 | 🐛 491 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's framework for writing and using C++ mock classes.
+* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 931 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
 
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,728 | 🐛 25 | 🌐 Rust | 📅 2026-06-10 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,730 | 🐛 25 | 🌐 Rust | 📅 2026-06-10 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 204 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 495,444 | 🐛 99 | 📅 2026-06-30 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -175,7 +175,7 @@
 * [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180) ![student]  - RFC 1180, short overview on ethernet.
 * [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 * [SOME/IP specification](http://some-ip.com/papers.shtml)
-* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,434 | 🐛 49 | 🌐 C++ | 📅 2026-07-06 - Introduction to SOME/IP based on GENIVI implementation.
+* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,434 | 🐛 47 | 🌐 C++ | 📅 2026-08-14 - Introduction to SOME/IP based on GENIVI implementation.
 * `2017` [Security Analysis of Ethernet in Cars](https://pdfs.semanticscholar.org/77df/1b9418a0bf67bb9155daa94ef162054dca23.pdf?_ga=2.132109839.1632464626.1590175047-1154219747.1586112696) ![pdf]
 * <details>
   <summary>Automotive Ethernet Stack - Click to expand <img src="media/icons/warning.png" height="18"/></summary><div class="tg-wrap"><table><thead><tr><th>Use Case</th><th>Audio<br>Video<br></th><th>Time <br>Sync</th><th>Network <br>Managment</th><th>Service <br>Control</th><th>Diagnostic </th><th>Address <br>Config</th><th>Helper<br>Protocols</th></tr></thead><tbody><tr> <td align="center">Application</td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td><td align="center" rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td> <td align="center"></td> <td align="center"></td></tr><tr> <td align="center">Presentation</td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td></tr><tr> <td align="center">Session</td><td align="center" rowspan="2">IEEE 1722<br>(AVTP)<br></td><td align="center" rowspan="2">IEEE 802.1AS <br>(PTP)<br></td> <td align="center">UDP-NM</td> <td align="center"><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td> <td align="center"><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td> <td align="center"><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td> <td align="center"></td></tr><tr> <td align="center">Transport</td><td align="center" colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td> <td align="center"></td></tr><tr> <td align="center">Network<br></td> <td align="center"></td> <td align="center"></td><td align="center" colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td> <td align="center"><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>,<br><a href="https://tools.ietf.org/html/rfc826">ARP</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a><br></td></tr><tr> <td align="center">Data Link</td><td align="center" colspan="7">Ethernet MAC + VLAN (802.1Q)</td></tr><tr> <td align="center">Physical</td><td align="center" colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td></tr></tbody></table><sup>(*) - superseded by newer version of standard</sup></div>
@@ -277,7 +277,7 @@
 * `2011` [ISO/IEC/IEEE42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) ![pdf] - Systems and software engineering - Architecture description.
 * `2008` [Automotive real time development using a timing-augmented AUTOSAR specification](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) ![pdf]
 * `1998` [IEEE Std 1016](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) ![pdf] - IEEE Recommended Practice for Software Design Descriptions.
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,863 | 🐛 1 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,864 | 🐛 1 | 📅 2026-04-19 ![awesome]
 
 ## Requirements engineering
 
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,759 | 🐛 312 | 📅 2026-08-04 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 8,975 | 🐛 2 | 📅 2026-08-12 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,768 | 🐛 312 | 📅 2026-08-04 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 8,980 | 🐛 2 | 📅 2026-08-12 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -346,13 +346,13 @@
 * [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 * `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
 * `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR](https://networked-embedded.de/paper/urbina-cit-2015.pdf) ![pdf]
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 ![awesome]
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,322 | 🐛 0 | 📅 2023-02-01 ![awesome]
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 38,924 | 🐛 491 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,924 | 🐛 491 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's framework for writing and using C++ mock classes.
-* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 931 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
+* [Google Test](https://github.com/google/googletest) ⭐ 38,927 | 🐛 490 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,927 | 🐛 490 | 🌐 C++ | 📅 2026-08-13 ![github] - Google's framework for writing and using C++ mock classes.
+* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 932 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
 
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,730 | 🐛 25 | 🌐 Rust | 📅 2026-06-10 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,735 | 🐛 26 | 🌐 Rust | 📅 2026-06-10 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 204 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 495,444 | 🐛 99 | 📅 2026-06-30 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 495,811 | 🐛 100 | 📅 2026-06-30 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

@@ -134,7 +134,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72780
+            "stars": 72792
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 8986
+            "stars": 8989
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-16T01:35:47Z",
             "owner": "google",
             "repo": "googletest",
-            "stars": 38930
+            "stars": 38935
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-16T01:35:47Z",
             "owner": "google",
             "repo": "googletest",
-            "stars": 38930
+            "stars": 38935
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14737
+            "stars": 14738
           }
         },
         {
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:08:05.766Z",
+    "last_updated": "2026-08-17T02:06:24.546Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",
     "enhanced_repository": "enhansome/enhansome-automotive",

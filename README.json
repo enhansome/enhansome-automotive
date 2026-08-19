@@ -1,74 +1,147 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "as",
+              "description": "Automotive software(OSEK & AUTOSAR) and its tool-chain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381042777,
+                "language": "C",
+                "last_commit": "2026-08-16T02:00:55Z",
+                "owner": "autoas",
+                "repo": "as",
+                "stars": 920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autosar",
+              "description": "A set of python modules for working with AUTOSAR XML files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63766974,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:29:10Z",
+                "owner": "cogu",
+                "repo": "autosar",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arctic Core",
+              "description": "Open source AUTOSAR embedded platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176293709,
+                "language": "C",
+                "last_commit": "2019-03-18T14:26:07Z",
+                "owner": "Depthkernelcore",
+                "repo": "Arccore",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autosar-framework",
+              "description": "Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47979351,
+                "language": "C++",
+                "last_commit": "2015-03-13T09:25:09Z",
+                "owner": "myGiter",
+                "repo": "autosar-framework",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Autosar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trampoline",
+              "description": "Implementation (LGPL license).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42299318,
+                "language": "C",
+                "last_commit": "2025-09-15T12:29:31Z",
+                "owner": "TrampolineRTOS",
+                "repo": "trampoline",
+                "stars": 743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeOSEK",
+              "description": "Implementation (BSD license).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18946763,
+                "language": "C",
+                "last_commit": "2020-10-29T12:35:10Z",
+                "owner": "ciaa",
+                "repo": "firmware_v1",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chalandi Amine OSEK 2.2.3",
+              "description": "Implementation for ARM Cortex M3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121372516,
+                "language": "C",
+                "last_commit": "2023-05-17T22:09:38Z",
+                "owner": "Chalandi",
+                "repo": "OSEK",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ev3OSEK",
+              "description": "Implementation for the Mindstorms EV3 robots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59896033,
+                "language": "C",
+                "last_commit": "2018-07-27T00:10:23Z",
+                "owner": "ev3osek",
+                "repo": "ev3osek",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OSEK/VDX"
+        }
+      ],
       "title": "RTOS"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Trampoline",
-          "description": "Implementation (LGPL license).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-15T12:29:31Z",
-            "owner": "TrampolineRTOS",
-            "repo": "trampoline",
-            "stars": 743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FreeOSEK",
-          "description": "Implementation (BSD license).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-10-29T12:35:10Z",
-            "owner": "ciaa",
-            "repo": "firmware_v1",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chalandi Amine OSEK 2.2.3",
-          "description": "Implementation for ARM Cortex M3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-05-17T22:09:38Z",
-            "owner": "Chalandi",
-            "repo": "OSEK",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ev3OSEK",
-          "description": "Implementation for the Mindstorms EV3 robots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-07-27T00:10:23Z",
-            "owner": "ev3osek",
-            "repo": "ev3osek",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "OSEK/VDX"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -77,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76066550,
             "language": null,
             "last_commit": "2024-03-15T17:19:11Z",
             "owner": "manfreddiaz",
@@ -91,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170016616,
             "language": null,
             "last_commit": "2026-07-14T14:19:14Z",
             "owner": "autonomousdrivingkr",
@@ -105,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82629011,
             "language": null,
             "last_commit": "2022-04-23T16:55:58Z",
             "owner": "philbort",
@@ -116,12 +192,7 @@
       "title": "Autonomous Driving"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Bus Systems"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -130,11 +201,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21935031,
             "language": null,
-            "last_commit": "2026-08-04T08:08:58Z",
+            "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72821
+            "stars": 72828
           }
         },
         {
@@ -144,11 +216,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104612770,
             "language": null,
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 8996
+            "stars": 8999
           }
         },
         {
@@ -158,6 +231,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36583681,
             "language": null,
             "last_commit": "2022-09-27T14:10:08Z",
             "owner": "inputsh",
@@ -172,113 +246,117 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48948741,
             "language": null,
             "last_commit": "2025-04-29T12:09:53Z",
             "owner": "mikecroucher",
             "repo": "awesome-MATLAB",
             "stars": 401
           }
-        },
-        {
-          "node_type": "item",
-          "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
-          "description": "Robert C. Martin.",
-          "children": []
         }
       ],
       "title": "Software Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Google Test",
-          "description": "Google's C++ test framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T14:47:19Z",
-            "owner": "google",
-            "repo": "googletest",
-            "stars": 38936
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Googletest Mocking (gMock) Framework",
-          "description": "Google's framework for writing and using C++ mock classes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T14:47:19Z",
-            "owner": "google",
-            "repo": "googletest",
-            "stars": 38936
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fake Function Framework (fff)",
-          "description": "Micro-framework for creating fake C functions for tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-11-02T22:46:42Z",
-            "owner": "meekrosoft",
-            "repo": "fff",
-            "stars": 932
-          }
-        }
-      ],
-      "title": "Unit tests"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Static Analysis",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Test",
+              "description": "Google's C++ test framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39840932,
+                "language": "C++",
+                "last_commit": "2026-08-18T14:47:19Z",
+                "owner": "google",
+                "repo": "googletest",
+                "stars": 38938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Googletest Mocking (gMock) Framework",
+              "description": "Google's framework for writing and using C++ mock classes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39840932,
+                "language": "C++",
+                "last_commit": "2026-08-18T14:47:19Z",
+                "owner": "google",
+                "repo": "googletest",
+                "stars": 38938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fake Function Framework (fff)",
+              "description": "Micro-framework for creating fake C functions for tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168299,
+                "language": "C",
+                "last_commit": "2023-11-02T22:46:42Z",
+                "owner": "meekrosoft",
+                "repo": "fff",
+                "stars": 932
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-10T13:06:01Z",
-            "owner": "analysis-tools-dev",
-            "repo": "static-analysis",
-            "stars": 14739
-          }
+          "node_type": "group",
+          "title": "Unit tests"
         },
         {
-          "node_type": "item",
-          "title": "NaiveSystems Analyze",
-          "description": "A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-29T02:22:20Z",
-            "owner": "naivesystems",
-            "repo": "analyze",
-            "stars": 204
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Static Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48246447,
+                "language": "Rust",
+                "last_commit": "2026-06-10T13:06:01Z",
+                "owner": "analysis-tools-dev",
+                "repo": "static-analysis",
+                "stars": 14737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NaiveSystems Analyze",
+              "description": "A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473614550,
+                "language": "C++",
+                "last_commit": "2025-12-29T02:22:20Z",
+                "owner": "naivesystems",
+                "repo": "analyze",
+                "stars": 204
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static analysis"
         }
       ],
-      "title": "Static analysis"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
+      "title": "Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:05:18.939Z",
+    "last_updated": "2026-08-19T12:16:46.744Z",
     "original_repository": "Marcin214/awesome-automotive",
+    "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",
     "enhanced_repository": "enhansome/enhansome-automotive",
     "enhanced_repository_description": null,

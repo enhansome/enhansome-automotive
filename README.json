@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 63766974,
                 "language": "Python",
-                "last_commit": "2026-08-20T00:05:28Z",
+                "last_commit": "2026-08-21T18:19:44Z",
                 "owner": "cogu",
                 "repo": "autosar",
                 "stars": 501
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72850
+            "stars": 72869
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9009
+            "stars": 9015
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2022-09-27T14:10:08Z",
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3858
+            "stars": 3859
           }
         },
         {
@@ -271,10 +271,10 @@
                 "archived": false,
                 "id": 39840932,
                 "language": "C++",
-                "last_commit": "2026-08-19T19:37:00Z",
+                "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38941
+                "stars": 38951
               }
             },
             {
@@ -286,10 +286,10 @@
                 "archived": false,
                 "id": 39840932,
                 "language": "C++",
-                "last_commit": "2026-08-19T19:37:00Z",
+                "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38941
+                "stars": 38951
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-06-10T13:06:01Z",
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14738
+                "stars": 14744
               }
             },
             {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:09:56.878Z",
+    "last_updated": "2026-08-22T02:02:28.350Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

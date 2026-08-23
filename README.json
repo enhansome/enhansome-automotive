@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-16T02:00:55Z",
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 921
+                "stars": 922
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 63766974,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:19:44Z",
+                "last_commit": "2026-08-22T23:50:14Z",
                 "owner": "cogu",
                 "repo": "autosar",
                 "stars": 501
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-14T14:19:14Z",
             "owner": "autonomousdrivingkr",
             "repo": "Awesome-Autonomous-Driving",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -203,10 +203,10 @@
             "archived": false,
             "id": 21935031,
             "language": null,
-            "last_commit": "2026-08-19T05:32:17Z",
+            "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72869
+            "stars": 72878
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9015
+            "stars": 9016
           }
         },
         {
@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38951
+                "stars": 38952
               }
             },
             {
@@ -289,7 +289,7 @@
                 "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38951
+                "stars": 38952
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-06-10T13:06:01Z",
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14744
+                "stars": 14745
               }
             },
             {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:02:28.350Z",
+    "last_updated": "2026-08-23T02:11:23.050Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

@@ -89,7 +89,7 @@
 
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
-* [as](https://github.com/autoas/as) ⭐ 922 | 🐛 3 | 🌐 C | 📅 2026-08-16 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+* [as](https://github.com/autoas/as) ⭐ 923 | 🐛 3 | 🌐 C | 📅 2026-08-16 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
 * [autosar](https://github.com/cogu/autosar) ⭐ 501 | 🐛 3 | 🌐 Python | 📅 2026-08-23 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
@@ -152,7 +152,7 @@
 
 ## Autonomous Driving
 
-* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,389 | 🐛 2 | 📅 2024-03-15 ![awesome]
+* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,388 | 🐛 2 | 📅 2024-03-15 ![awesome]
 * [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) ⭐ 613 | 🐛 0 | 📅 2026-07-14 ![awesome]
 * [Awesome Self-Driving Cars](https://github.com/philbort/awesome-self-driving-cars) ⭐ 226 | 🐛 0 | 📅 2022-04-23 ![awesome]
 
@@ -170,12 +170,12 @@
 
 ### Automotive Ethernet
 
+* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,437 | 🐛 47 | 🌐 C++ | 📅 2026-08-14 - Introduction to SOME/IP based on GENIVI implementation.
 * [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
 * [Vector Automotive Ethernet Symposium 2019: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFaUFtXGcJX72EURLY8PWA9) ![video] - In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 * [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180) ![student]  - RFC 1180, short overview on ethernet.
 * [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 * [SOME/IP specification](http://some-ip.com/papers.shtml)
-* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,437 | 🐛 47 | 🌐 C++ | 📅 2026-08-14 - Introduction to SOME/IP based on GENIVI implementation.
 * `2017` [Security Analysis of Ethernet in Cars](https://pdfs.semanticscholar.org/77df/1b9418a0bf67bb9155daa94ef162054dca23.pdf?_ga=2.132109839.1632464626.1590175047-1154219747.1586112696) ![pdf]
 * <details>
   <summary>Automotive Ethernet Stack - Click to expand <img src="media/icons/warning.png" height="18"/></summary><div class="tg-wrap"><table><thead><tr><th>Use Case</th><th>Audio<br>Video<br></th><th>Time <br>Sync</th><th>Network <br>Managment</th><th>Service <br>Control</th><th>Diagnostic </th><th>Address <br>Config</th><th>Helper<br>Protocols</th></tr></thead><tbody><tr> <td align="center">Application</td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td><td align="center" rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td> <td align="center"></td> <td align="center"></td></tr><tr> <td align="center">Presentation</td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td> <td align="center"></td></tr><tr> <td align="center">Session</td><td align="center" rowspan="2">IEEE 1722<br>(AVTP)<br></td><td align="center" rowspan="2">IEEE 802.1AS <br>(PTP)<br></td> <td align="center">UDP-NM</td> <td align="center"><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td> <td align="center"><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td> <td align="center"><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td> <td align="center"></td></tr><tr> <td align="center">Transport</td><td align="center" colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td> <td align="center"></td></tr><tr> <td align="center">Network<br></td> <td align="center"></td> <td align="center"></td><td align="center" colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td> <td align="center"><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>,<br><a href="https://tools.ietf.org/html/rfc826">ARP</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a><br></td></tr><tr> <td align="center">Data Link</td><td align="center" colspan="7">Ethernet MAC + VLAN (802.1Q)</td></tr><tr> <td align="center">Physical</td><td align="center" colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td></tr></tbody></table><sup>(*) - superseded by newer version of standard</sup></div>
@@ -214,9 +214,9 @@
 
 ## Functional Safety
 
+* [IEC 61508-1:2010](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2019-08-27 ![github] - Functional safety of electrical/electronic/programmable electronic safety-related systems.
 * [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform.
 * [The 61508 Association](https://www.61508.org/index.php) - Group of companies with an interest in gaining the full benefits of the successful implementation of IEC 61508 and related standards.
-* [IEC 61508-1:2010](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2019-08-27 ![github] - Functional safety of electrical/electronic/programmable electronic safety-related systems.
 * [SCSC - Publications](https://scsc.uk/publications) - Professional network for sharing knowledge about system safety.
 * [exida](https://www.exida.com) - Worlds leading company for certification, safety, alarm management, cybersecurity.
 * [Matrickz](https://www.matrickz.de/en/home.html) - Software development partner in the Automotive specialized in ASPICE, Security and Safety.
@@ -236,6 +236,7 @@
 
 ## Cyber Security
 
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,512 | 🐛 3 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 * [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
 * [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources.
 * [Vehicle Control Unit Security using Open Source AUTOSAR](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) ![pdf] - Masters Thesis in Software Engineering.
@@ -244,7 +245,6 @@
 * `2016` [Vector Cybersecurity Symposium 2016: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) ![video] - Vector Informatik.
 * `2010` [Cryptography Engineering: Design Principles and Practical Applications](https://gateway.pinata.cloud/ipfs/QmNjLoag9KseUKqqCqJhdcDSDuB1zmRZJSJDy5UimpWfEk) ![pdf]![book] - Niels Ferguson, Bruce Schneier, Tadayoshi Kohno.
 * `2008` [Security Engineering: A Guide to Building Dependable Distributed Systems](https://img1.wsimg.com/blobby/go/ee806800-06e9-4f1e-bd18-64422d491bcb/downloads/1cfn0trka_845432.pdf) ![pdf]![book] - Ross J. Anderson.
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,502 | 🐛 2 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 
 ## Hardware
 
@@ -270,6 +270,7 @@
 
 ## Architecture
 
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,872 | 🐛 1 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -277,7 +278,6 @@
 * `2011` [ISO/IEC/IEEE42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) ![pdf] - Systems and software engineering - Architecture description.
 * `2008` [Automotive real time development using a timing-augmented AUTOSAR specification](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) ![pdf]
 * `1998` [IEEE Std 1016](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) ![pdf] - IEEE Recommended Practice for Software Design Descriptions.
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,872 | 🐛 1 | 📅 2026-04-19 ![awesome]
 
 ## Requirements engineering
 
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,899 | 🐛 311 | 📅 2026-08-22 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,021 | 🐛 4 | 📅 2026-08-12 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,908 | 🐛 311 | 📅 2026-08-22 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,024 | 🐛 4 | 📅 2026-08-12 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -342,16 +342,16 @@
 
 ## Testing
 
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 ![awesome]
 * [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
 * [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 * `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
 * `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR](https://networked-embedded.de/paper/urbina-cit-2015.pdf) ![pdf]
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 ![awesome]
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 38,955 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,955 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 38,957 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,957 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 932 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 499,320 | 🐛 106 | 📅 2026-08-21 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 ![awesome]
 
 ## Magazines
 

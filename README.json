@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 63766974,
                 "language": "Python",
-                "last_commit": "2026-08-22T23:50:14Z",
+                "last_commit": "2026-08-23T18:52:14Z",
                 "owner": "cogu",
                 "repo": "autosar",
                 "stars": 501
@@ -155,7 +155,7 @@
             "last_commit": "2024-03-15T17:19:11Z",
             "owner": "manfreddiaz",
             "repo": "awesome-autonomous-vehicles",
-            "stars": 2390
+            "stars": 2389
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72878
+            "stars": 72899
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9016
+            "stars": 9021
           }
         },
         {
@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38952
+                "stars": 38955
               }
             },
             {
@@ -289,7 +289,7 @@
                 "last_commit": "2026-08-21T21:04:29Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38952
+                "stars": 38955
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-06-10T13:06:01Z",
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14745
+                "stars": 14746
               }
             },
             {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:11:23.050Z",
+    "last_updated": "2026-08-24T02:09:26.599Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

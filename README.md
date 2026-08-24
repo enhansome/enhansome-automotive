@@ -90,7 +90,7 @@
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
 * [as](https://github.com/autoas/as) ⭐ 922 | 🐛 3 | 🌐 C | 📅 2026-08-16 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
-* [autosar](https://github.com/cogu/autosar) ⭐ 501 | 🐛 3 | 🌐 Python | 📅 2026-08-22 ![github] - A set of python modules for working with AUTOSAR XML files.
+* [autosar](https://github.com/cogu/autosar) ⭐ 501 | 🐛 3 | 🌐 Python | 📅 2026-08-23 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 * [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
@@ -152,7 +152,7 @@
 
 ## Autonomous Driving
 
-* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,390 | 🐛 2 | 📅 2024-03-15 ![awesome]
+* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,389 | 🐛 2 | 📅 2024-03-15 ![awesome]
 * [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) ⭐ 613 | 🐛 0 | 📅 2026-07-14 ![awesome]
 * [Awesome Self-Driving Cars](https://github.com/philbort/awesome-self-driving-cars) ⭐ 226 | 🐛 0 | 📅 2022-04-23 ![awesome]
 
@@ -244,7 +244,7 @@
 * `2016` [Vector Cybersecurity Symposium 2016: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) ![video] - Vector Informatik.
 * `2010` [Cryptography Engineering: Design Principles and Practical Applications](https://gateway.pinata.cloud/ipfs/QmNjLoag9KseUKqqCqJhdcDSDuB1zmRZJSJDy5UimpWfEk) ![pdf]![book] - Niels Ferguson, Bruce Schneier, Tadayoshi Kohno.
 * `2008` [Security Engineering: A Guide to Building Dependable Distributed Systems](https://img1.wsimg.com/blobby/go/ee806800-06e9-4f1e-bd18-64422d491bcb/downloads/1cfn0trka_845432.pdf) ![pdf]![book] - Ross J. Anderson.
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,468 | 🐛 2 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,502 | 🐛 2 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 
 ## Hardware
 
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,878 | 🐛 311 | 📅 2026-08-22 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,016 | 🐛 4 | 📅 2026-08-12 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,899 | 🐛 311 | 📅 2026-08-22 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,021 | 🐛 4 | 📅 2026-08-12 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 38,952 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,952 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 38,955 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 38,955 | 🐛 493 | 🌐 C++ | 📅 2026-08-21 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 932 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,745 | 🐛 27 | 🌐 Rust | 📅 2026-06-10 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,746 | 🐛 27 | 🌐 Rust | 📅 2026-06-10 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 204 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 499,005 | 🐛 106 | 📅 2026-08-21 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 499,320 | 🐛 106 | 📅 2026-08-21 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

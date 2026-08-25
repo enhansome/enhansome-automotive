@@ -255,7 +255,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4519
+            "stars": 4521
           }
         }
       ],
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72919
+            "stars": 72921
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9028
+            "stars": 9029
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:05:14.637Z",
+    "last_updated": "2026-08-25T06:09:50.346Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

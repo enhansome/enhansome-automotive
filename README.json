@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 63766974,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:52:14Z",
+                "last_commit": "2026-08-24T17:49:24Z",
                 "owner": "cogu",
                 "repo": "autosar",
                 "stars": 501
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4512
+            "stars": 4519
           }
         }
       ],
@@ -276,7 +276,7 @@
             "last_commit": "2026-04-19T14:30:02Z",
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2872
+            "stars": 2873
           }
         }
       ],
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72908
+            "stars": 72919
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9024
+            "stars": 9028
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2022-09-27T14:10:08Z",
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3859
+            "stars": 3860
           }
         },
         {
@@ -377,10 +377,10 @@
                 "archived": false,
                 "id": 39840932,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:04:29Z",
+                "last_commit": "2026-08-25T01:41:45Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38957
+                "stars": 38956
               }
             },
             {
@@ -392,10 +392,10 @@
                 "archived": false,
                 "id": 39840932,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:04:29Z",
+                "last_commit": "2026-08-25T01:41:45Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38957
+                "stars": 38956
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-06-10T13:06:01Z",
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14746
+                "stars": 14747
               }
             },
             {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:38.075Z",
+    "last_updated": "2026-08-25T02:05:14.637Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

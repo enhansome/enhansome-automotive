@@ -208,7 +208,7 @@
                 "last_commit": "2026-08-14T11:32:50Z",
                 "owner": "COVESA",
                 "repo": "vsomeip",
-                "stars": 1437
+                "stars": 1438
               }
             }
           ],
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4521
+            "stars": 4523
           }
         }
       ],
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72921
+            "stars": 72937
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9029
+            "stars": 9038
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2022-09-27T14:10:08Z",
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3860
+            "stars": 3859
           }
         },
         {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-06-10T13:06:01Z",
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14747
+                "stars": 14750
               }
             },
             {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:50.346Z",
+    "last_updated": "2026-08-26T02:10:53.642Z",
     "original_repository": "Marcin214/awesome-automotive",
     "original_repository_id": 248972468,
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",

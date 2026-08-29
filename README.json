@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple AUTOSAR Basic Software",
+                "homepage": "https://gitee.com/autoas/as",
                 "id": 381042777,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T02:00:55Z",
+                "open_issues": 3,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 927
+                "stars": 928,
+                "topics": [
+                  "autosar",
+                  "cantp",
+                  "nvm",
+                  "someip"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -28,12 +38,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of python modules for working with AUTOSAR XML files",
+                "homepage": null,
                 "id": 63766974,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:49:24Z",
+                "open_issues": 3,
                 "owner": "cogu",
                 "repo": "autosar",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "arxml",
+                  "autosar",
+                  "autosar-classic"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -44,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 176293709,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-03-18T14:26:07Z",
+                "open_issues": 0,
                 "owner": "Depthkernelcore",
                 "repo": "Arccore",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -60,12 +84,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework für wiederverwendbare AUTOSAR Basis Software Module.",
+                "homepage": null,
                 "id": 47979351,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2015-03-13T09:25:09Z",
+                "open_issues": 0,
                 "owner": "myGiter",
                 "repo": "autosar-framework",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             }
@@ -83,12 +112,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trampoline is a static RTOS for small embedded systems. Its API is aligned with OSEK/VDX OS and AUTOSAR OS 4.2 standards.",
+                "homepage": null,
                 "id": 42299318,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-15T12:29:31Z",
+                "open_issues": 21,
                 "owner": "TrampolineRTOS",
                 "repo": "trampoline",
-                "stars": 745
+                "stars": 745,
+                "topics": [
+                  "autosar",
+                  "osek-vdx",
+                  "rtos",
+                  "trampoline"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -99,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware de la CIAA",
+                "homepage": "http://www.proyecto-ciaa.com.ar",
                 "id": 18946763,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-29T12:35:10Z",
+                "open_issues": 103,
                 "owner": "ciaa",
                 "repo": "firmware_v1",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -115,12 +159,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSEK (ECC1/BCC1) Implementation for Cortex™-M3",
+                "homepage": null,
                 "id": 121372516,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-17T22:09:38Z",
+                "open_issues": 0,
                 "owner": "Chalandi",
                 "repo": "OSEK",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "osek",
+                  "osek-vdx",
+                  "rtos"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -131,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 59896033,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-07-27T00:10:23Z",
+                "open_issues": 2,
                 "owner": "ev3osek",
                 "repo": "ev3osek",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             }
@@ -158,12 +216,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+            "homepage": "https://manfreddiaz.github.io/awesome-autonomous-vehicles/",
             "id": 76066550,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-15T17:19:11Z",
+            "open_issues": 2,
             "owner": "manfreddiaz",
             "repo": "awesome-autonomous-vehicles",
-            "stars": 2390
+            "stars": 2390,
+            "topics": [
+              "autonomous-cars",
+              "autonomous-vehicles",
+              "car-driving",
+              "computer-vision",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -174,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 170016616,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-14T14:19:14Z",
+            "open_issues": 0,
             "owner": "autonomousdrivingkr",
             "repo": "Awesome-Autonomous-Driving",
-            "stars": 613
+            "stars": 613,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -190,12 +264,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list of self-driving cars",
+            "homepage": null,
             "id": 82629011,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-04-23T16:55:58Z",
+            "open_issues": 0,
             "owner": "philbort",
             "repo": "awesome-self-driving-cars",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "autonomous-vehicles",
+              "awesome-list",
+              "self-driving-car"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         }
@@ -214,12 +297,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of Scalable service-Oriented MiddlewarE over IP",
+                "homepage": null,
                 "id": 68405620,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-14T11:32:50Z",
+                "open_issues": 48,
                 "owner": "COVESA",
                 "repo": "vsomeip",
-                "stars": 1440
+                "stars": 1440,
+                "topics": [
+                  "automotive",
+                  "service-discovery",
+                  "someip",
+                  "vsomeip"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             }
@@ -241,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIL3",
+            "homepage": null,
             "id": 204450874,
             "language": "C",
+            "license": null,
             "last_commit": "2019-08-27T09:48:52Z",
+            "open_issues": 0,
             "owner": "wangdong412",
             "repo": "Consen-SIS",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         }
@@ -263,12 +361,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
+            "homepage": null,
             "id": 64367335,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-30T00:29:18Z",
+            "open_issues": 3,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4532
+            "stars": 4533,
+            "topics": [
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "cars",
+              "cybersecurity",
+              "hacking",
+              "hacking-vehicles",
+              "hardware",
+              "learning",
+              "security",
+              "vehicle-security"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         }
@@ -285,12 +401,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources on software architecture",
+            "homepage": null,
             "id": 163113528,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-19T14:30:02Z",
+            "open_issues": 1,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2874
+            "stars": 2874,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         }
@@ -307,12 +434,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "homepage": "http://fffaraz.github.io/awesome-cpp/",
             "id": 21935031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-22T08:36:07Z",
+            "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72975
+            "stars": 72983,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "cpp-library",
+              "cppcon",
+              "libraries",
+              "list",
+              "lists",
+              "programming-tutorial",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -323,12 +468,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome embedded programming.",
+            "homepage": "https://nhivp.github.io/Awesome-Embedded/",
             "id": 104612770,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-12T03:10:08Z",
+            "open_issues": 7,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9050
+            "stars": 9053,
+            "topics": [
+              "ai",
+              "autosar",
+              "awesome",
+              "beaglebone",
+              "bootloader",
+              "embedded",
+              "embedded-ai",
+              "embedded-gui",
+              "freertos",
+              "linux-programming",
+              "machine-learning",
+              "microcontroller",
+              "msp430",
+              "operating-systems",
+              "raspberry-pi",
+              "rtos",
+              "stm32",
+              "tiva-c-series",
+              "tm4c123"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -339,12 +509,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Continuing the development of awesome-c list on GitHub",
+            "homepage": null,
             "id": 36583681,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-09-27T14:10:08Z",
+            "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3860
+            "stars": 3860,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "c",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -355,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MATLAB toolboxes, applications, software and resources.",
+            "homepage": null,
             "id": 48948741,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-04-29T12:09:53Z",
+            "open_issues": 4,
             "owner": "mikecroucher",
             "repo": "awesome-MATLAB",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         }
@@ -377,12 +562,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My own notes (drafts mostly) about software quality",
+            "homepage": "https://github.com/ligurio/sqa-wiki/wiki",
             "id": 19713206,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-02-01T15:23:18Z",
+            "open_issues": 0,
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2320
+            "stars": 2320,
+            "topics": [
+              "courses",
+              "ebooks",
+              "formal-methods",
+              "learning",
+              "model-checking",
+              "quality-assurance",
+              "software-testing",
+              "testing",
+              "tla",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
         },
@@ -395,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoogleTest - Google Testing and Mocking Framework",
+                "homepage": "https://google.github.io/googletest/",
                 "id": 39840932,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T11:15:21Z",
+                "open_issues": 493,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39110
+                "stars": 39195,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -411,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoogleTest - Google Testing and Mocking Framework",
+                "homepage": "https://google.github.io/googletest/",
                 "id": 39840932,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T11:15:21Z",
+                "open_issues": 493,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39110
+                "stars": 39195,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -427,12 +638,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A testing micro framework for creating function test doubles",
+                "homepage": null,
                 "id": 1168299,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-02T22:46:42Z",
+                "open_issues": 59,
                 "owner": "meekrosoft",
                 "repo": "fff",
-                "stars": 932
+                "stars": 932,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "embedded",
+                  "fake-functions",
+                  "micro-framework",
+                  "tdd"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             }
@@ -450,12 +673,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+                "homepage": "https://analysis-tools.dev",
                 "id": 48246447,
                 "language": "Rust",
-                "last_commit": "2026-08-28T11:10:01Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:40:37Z",
+                "open_issues": 11,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14751
+                "stars": 14752,
+                "topics": [
+                  "analysis",
+                  "awesome-list",
+                  "code-quality",
+                  "hacktoberfest",
+                  "linter",
+                  "sast",
+                  "static-analysis",
+                  "static-analyzers",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             },
@@ -466,12 +704,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NaiveSystems Analyze is a static analysis tool for code security and compliance.",
+                "homepage": null,
                 "id": 473614550,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-29T02:22:20Z",
+                "open_issues": 4,
                 "owner": "naivesystems",
                 "repo": "analyze",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "autosar",
+                  "cert",
+                  "code-scanning",
+                  "coding-standards",
+                  "cpp14",
+                  "cppcheck",
+                  "functional-safety",
+                  "iso26262",
+                  "misra",
+                  "misra-c",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
             }
@@ -485,15 +740,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:06:29.835Z",
+    "last_updated": "2026-08-29T04:33:01.916Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
+      "homepage": null,
       "id": 248972468,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-01-07T21:52:01Z",
+      "open_issues": 11,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1129
+      "stars": 1129,
+      "topics": [
+        "automotive",
+        "autosar",
+        "awesome",
+        "awesome-list",
+        "can",
+        "capl",
+        "embedded",
+        "engineering",
+        "flexray",
+        "osek-vdx",
+        "vector-informatik"
+      ]
     },
     "original_repository_sha": "92800992720da4b7a3231187bbf59015987d4dcf",
     "enhanced_repository": "enhansome/enhansome-automotive",

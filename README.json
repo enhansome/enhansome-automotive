@@ -443,7 +443,7 @@
             "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72983,
+            "stars": 72984,
             "topics": [
               "awesome",
               "awesome-list",
@@ -477,7 +477,7 @@
             "open_issues": 7,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9053,
+            "stars": 9054,
             "topics": [
               "ai",
               "autosar",
@@ -605,7 +605,7 @@
                 "open_issues": 493,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39195,
+                "stars": 39211,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -626,7 +626,7 @@
                 "open_issues": 493,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39195,
+                "stars": 39211,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:01.916Z",
+    "last_updated": "2026-08-29T07:18:57.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",

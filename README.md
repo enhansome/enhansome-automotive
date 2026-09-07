@@ -270,7 +270,7 @@
 
 ## Architecture
 
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,877 | 🐛 2 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,878 | 🐛 2 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,148 | 🐛 310 | 📅 2026-09-05 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,082 | 🐛 8 | 📅 2026-09-06 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,163 | 🐛 310 | 📅 2026-09-05 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,086 | 🐛 3 | 📅 2026-09-06 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,492 | 🐛 501 | 🌐 C++ | 📅 2026-09-03 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,492 | 🐛 501 | 🌐 C++ | 📅 2026-09-03 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,499 | 🐛 501 | 🌐 C++ | 📅 2026-09-03 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,499 | 🐛 501 | 🌐 C++ | 📅 2026-09-03 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 936 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,766 | 🐛 12 | 🌐 Rust | 📅 2026-08-30 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,767 | 🐛 12 | 🌐 Rust | 📅 2026-08-30 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 205 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 503,378 | 🐛 106 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 503,734 | 🐛 106 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

@@ -303,7 +303,7 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-17T14:20:04Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "COVESA",
                 "repo": "vsomeip",
                 "stars": 1450,
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4639,
+            "stars": 4641,
             "topics": [
               "automotive",
               "awesome",
@@ -410,7 +410,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2889,
+            "stars": 2893,
             "topics": [
               "architecture",
               "awesome",
@@ -443,7 +443,7 @@
             "open_issues": 311,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73405,
+            "stars": 73424,
             "topics": [
               "awesome",
               "awesome-list",
@@ -477,7 +477,7 @@
             "open_issues": 5,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9135,
+            "stars": 9138,
             "topics": [
               "ai",
               "autosar",
@@ -518,7 +518,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3860,
+            "stars": 3858,
             "topics": [
               "awesome",
               "awesome-list",
@@ -602,10 +602,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-17T17:24:09Z",
-                "open_issues": 509,
+                "open_issues": 510,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39569,
+                "stars": 39573,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -623,10 +623,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-17T17:24:09Z",
-                "open_issues": 509,
+                "open_issues": 510,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39569,
+                "stars": 39573,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -682,7 +682,7 @@
                 "open_issues": 0,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14797,
+                "stars": 14798,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:18:38.648Z",
+    "last_updated": "2026-09-23T05:05:17.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -752,7 +752,7 @@
       "open_issues": 14,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1142,
+      "stars": 1143,
       "topics": [
         "automotive",
         "autosar",

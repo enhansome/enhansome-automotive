@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,614 | 🐛 519 | 🌐 C++ | 📅 2026-09-30 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,614 | 🐛 519 | 🌐 C++ | 📅 2026-09-30 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,614 | 🐛 519 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,614 | 🐛 519 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 940 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 513,808 | 🐛 106 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 

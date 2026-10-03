@@ -601,7 +601,7 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T13:32:14Z",
+                "last_commit": "2026-10-03T05:21:44Z",
                 "open_issues": 519,
                 "owner": "google",
                 "repo": "googletest",
@@ -622,7 +622,7 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T13:32:14Z",
+                "last_commit": "2026-10-03T05:21:44Z",
                 "open_issues": 519,
                 "owner": "google",
                 "repo": "googletest",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:24.227Z",
+    "last_updated": "2026-10-03T05:39:56.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",

@@ -236,7 +236,7 @@
 
 ## Cyber Security
 
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,685 | 🐛 7 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,689 | 🐛 7 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 * [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
 * [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources.
 * [Vehicle Control Unit Security using Open Source AUTOSAR](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) ![pdf] - Masters Thesis in Software Engineering.
@@ -270,7 +270,7 @@
 
 ## Architecture
 
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,902 | 🐛 3 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,901 | 🐛 3 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,645 | 🐛 312 | 📅 2026-09-29 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,180 | 🐛 8 | 📅 2026-09-06 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,659 | 🐛 312 | 📅 2026-09-29 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,181 | 🐛 8 | 📅 2026-09-06 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 402 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,824 | 🐛 3 | 🌐 Rust | 📅 2026-10-02 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,826 | 🐛 3 | 🌐 Rust | 📅 2026-10-02 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 515,755 | 🐛 106 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

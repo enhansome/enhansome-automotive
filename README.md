@@ -89,8 +89,8 @@
 
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
-* [as](https://github.com/autoas/as) ⭐ 943 | 🐛 0 | 🌐 C | 📅 2026-10-10 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
-* [autosar](https://github.com/cogu/autosar) ⭐ 503 | 🐛 3 | 🌐 Python | 📅 2026-10-09 ![github] - A set of python modules for working with AUTOSAR XML files.
+* [as](https://github.com/autoas/as) ⭐ 943 | 🐛 0 | 🌐 C | 📅 2026-10-11 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+* [autosar](https://github.com/cogu/autosar) ⭐ 504 | 🐛 3 | 🌐 Python | 📅 2026-10-09 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 * [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
@@ -152,8 +152,8 @@
 
 ## Autonomous Driving
 
-* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,396 | 🐛 4 | 📅 2024-03-15 ![awesome]
-* [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) ⭐ 621 | 🐛 1 | 📅 2026-09-19 ![awesome]
+* [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ⭐ 2,397 | 🐛 4 | 📅 2024-03-15 ![awesome]
+* [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) ⭐ 622 | 🐛 1 | 📅 2026-09-19 ![awesome]
 * [Awesome Self-Driving Cars](https://github.com/philbort/awesome-self-driving-cars) ⭐ 226 | 🐛 0 | 📅 2022-04-23 ![awesome]
 
 ## Agile
@@ -270,7 +270,7 @@
 
 ## Architecture
 
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,905 | 🐛 3 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,906 | 🐛 3 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,713 | 🐛 312 | 📅 2026-10-07 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,195 | 🐛 11 | 📅 2026-09-06 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,731 | 🐛 312 | 📅 2026-10-11 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,200 | 🐛 5 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 402 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,831 | 🐛 2 | 🌐 Rust | 📅 2026-10-09 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,830 | 🐛 2 | 🌐 Rust | 📅 2026-10-09 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 516,895 | 🐛 106 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 517,335 | 🐛 106 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

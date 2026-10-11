@@ -17,7 +17,7 @@
                 "id": 381042777,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T03:08:35Z",
+                "last_commit": "2026-10-11T02:42:23Z",
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
@@ -48,7 +48,7 @@
                 "open_issues": 3,
                 "owner": "cogu",
                 "repo": "autosar",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "arxml",
                   "autosar",
@@ -226,7 +226,7 @@
             "open_issues": 4,
             "owner": "manfreddiaz",
             "repo": "awesome-autonomous-vehicles",
-            "stars": 2396,
+            "stars": 2397,
             "topics": [
               "autonomous-cars",
               "autonomous-vehicles",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "autonomousdrivingkr",
             "repo": "Awesome-Autonomous-Driving",
-            "stars": 621,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
@@ -411,7 +411,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "architecture",
               "awesome",
@@ -440,11 +440,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-07T07:08:44Z",
+            "last_commit": "2026-10-11T00:10:01Z",
             "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73713,
+            "stars": 73731,
             "topics": [
               "awesome",
               "awesome-list",
@@ -474,11 +474,11 @@
             "id": 104612770,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-09-06T05:27:33Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-10T10:02:00Z",
+            "open_issues": 5,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9195,
+            "stars": 9200,
             "topics": [
               "ai",
               "autosar",
@@ -519,7 +519,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3859,
+            "stars": 3858,
             "topics": [
               "awesome",
               "awesome-list",
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14831,
+                "stars": 14830,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:19:05.203Z",
+    "last_updated": "2026-10-11T06:20:07.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -750,10 +750,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-01-07T21:52:01Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1147,
+      "stars": 1146,
       "topics": [
         "automotive",
         "autosar",

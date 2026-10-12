@@ -117,7 +117,7 @@
 
 ### OSEK/VDX
 
-* [Trampoline](https://github.com/TrampolineRTOS/trampoline) ⭐ 752 | 🐛 21 | 🌐 C | 📅 2025-09-15 ![github] - Implementation (LGPL license).
+* [Trampoline](https://github.com/TrampolineRTOS/trampoline) ⭐ 753 | 🐛 21 | 🌐 C | 📅 2025-09-15 ![github] - Implementation (LGPL license).
 * [FreeOSEK](https://github.com/ciaa/firmware_v1) ⭐ 129 | 🐛 103 | 🌐 C | 📅 2020-10-29 ![github] - Implementation (BSD license).
 * [Chalandi Amine OSEK 2.2.3](https://github.com/Chalandi/OSEK) ⭐ 36 | 🐛 0 | 🌐 C | 📅 2023-05-17 ![github] -  Implementation for ARM Cortex M3.
 * [ev3OSEK](https://github.com/ev3osek/ev3osek) ⭐ 13 | 🐛 2 | 🌐 C | 📅 2018-07-27 ![github] - Implementation for the Mindstorms EV3 robots.
@@ -236,7 +236,7 @@
 
 ## Cyber Security
 
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,693 | 🐛 6 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,694 | 🐛 6 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 * [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
 * [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources.
 * [Vehicle Control Unit Security using Open Source AUTOSAR](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) ![pdf] - Masters Thesis in Software Engineering.
@@ -270,7 +270,7 @@
 
 ## Architecture
 
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,906 | 🐛 3 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,907 | 🐛 3 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,731 | 🐛 312 | 📅 2026-10-11 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,200 | 🐛 5 | 📅 2026-10-10 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 73,755 | 🐛 311 | 📅 2026-10-11 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,203 | 🐛 6 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 402 | 🐛 4 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -342,7 +342,7 @@
 
 ## Testing
 
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 ![awesome]
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 ![awesome]
 * [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
 * [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 * `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,629 | 🐛 522 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,629 | 🐛 522 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,630 | 🐛 522 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,630 | 🐛 522 | 🌐 C++ | 📅 2026-10-03 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 940 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,830 | 🐛 2 | 🌐 Rust | 📅 2026-10-09 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,831 | 🐛 2 | 🌐 Rust | 📅 2026-10-09 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 517,335 | 🐛 106 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 517,808 | 🐛 105 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

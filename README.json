@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 943,
+                "stars": 944,
                 "topics": [
                   "autosar",
                   "cantp",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "autonomousdrivingkr",
             "repo": "Awesome-Autonomous-Driving",
-            "stars": 623,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
@@ -307,7 +307,7 @@
                 "open_issues": 51,
                 "owner": "COVESA",
                 "repo": "vsomeip",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": [
                   "automotive",
                   "service-discovery",
@@ -368,10 +368,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T00:29:18Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4700,
+            "stars": 4704,
             "topics": [
               "automotive",
               "awesome",
@@ -444,7 +444,7 @@
             "open_issues": 311,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73800,
+            "stars": 73817,
             "topics": [
               "awesome",
               "awesome-list",
@@ -478,7 +478,7 @@
             "open_issues": 7,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9212,
+            "stars": 9216,
             "topics": [
               "ai",
               "autosar",
@@ -519,7 +519,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3857,
+            "stars": 3856,
             "topics": [
               "awesome",
               "awesome-list",
@@ -545,7 +545,7 @@
             "open_issues": 4,
             "owner": "mikecroucher",
             "repo": "awesome-MATLAB",
-            "stars": 401,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2321,
+            "stars": 2320,
             "topics": [
               "courses",
               "ebooks",
@@ -603,10 +603,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-13T14:56:26Z",
-                "open_issues": 525,
+                "open_issues": 529,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39636,
+                "stars": 39642,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -624,10 +624,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-13T14:56:26Z",
-                "open_issues": 525,
+                "open_issues": 529,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39636,
+                "stars": 39642,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -679,11 +679,11 @@
                 "id": 48246447,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:40:01Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-14T20:30:49Z",
+                "open_issues": 3,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14833,
+                "stars": 14835,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:17:46.070Z",
+    "last_updated": "2026-10-15T05:04:57.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -753,7 +753,7 @@
       "open_issues": 17,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1149,
+      "stars": 1150,
       "topics": [
         "automotive",
         "autosar",

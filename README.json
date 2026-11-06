@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "autosar",
                   "cantp",
@@ -119,7 +119,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-19T12:20:44Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "TrampolineRTOS",
                 "repo": "trampoline",
                 "stars": 757,
@@ -304,10 +304,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-03T15:55:42Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "COVESA",
                 "repo": "vsomeip",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "automotive",
                   "service-discovery",
@@ -371,7 +371,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4763,
+            "stars": 4765,
             "topics": [
               "automotive",
               "awesome",
@@ -411,7 +411,7 @@
             "open_issues": 7,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2924,
+            "stars": 2925,
             "topics": [
               "architecture",
               "awesome",
@@ -440,11 +440,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-04T02:23:29Z",
-            "open_issues": 312,
+            "last_commit": "2026-11-06T04:16:48Z",
+            "open_issues": 287,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74242,
+            "stars": 74265,
             "topics": [
               "awesome",
               "awesome-list",
@@ -478,7 +478,7 @@
             "open_issues": 19,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9319,
+            "stars": 9323,
             "topics": [
               "ai",
               "autosar",
@@ -519,7 +519,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3859,
+            "stars": 3858,
             "topics": [
               "awesome",
               "awesome-list",
@@ -606,7 +606,7 @@
                 "open_issues": 552,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39707,
+                "stars": 39710,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -627,7 +627,7 @@
                 "open_issues": 552,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39707,
+                "stars": 39710,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -683,7 +683,7 @@
                 "open_issues": 1,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14872,
+                "stars": 14874,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:17:46.034Z",
+    "last_updated": "2026-11-06T07:18:02.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -750,7 +750,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-01-07T21:52:01Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
       "stars": 1159,

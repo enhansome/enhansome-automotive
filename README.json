@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "autosar",
                   "cantp",
@@ -48,7 +48,7 @@
                 "open_issues": 3,
                 "owner": "cogu",
                 "repo": "autosar",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "arxml",
                   "autosar",
@@ -371,7 +371,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4772,
+            "stars": 4773,
             "topics": [
               "automotive",
               "awesome",
@@ -444,7 +444,7 @@
             "open_issues": 288,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74324,
+            "stars": 74346,
             "topics": [
               "awesome",
               "awesome-list",
@@ -475,10 +475,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-10-10T10:02:00Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9326,
+            "stars": 9329,
             "topics": [
               "ai",
               "autosar",
@@ -519,7 +519,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3857,
+            "stars": 3858,
             "topics": [
               "awesome",
               "awesome-list",
@@ -602,11 +602,11 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T08:40:19Z",
-                "open_issues": 559,
+                "last_commit": "2026-11-10T07:12:31Z",
+                "open_issues": 560,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39715,
+                "stars": 39720,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -623,11 +623,11 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T08:40:19Z",
-                "open_issues": 559,
+                "last_commit": "2026-11-10T07:12:31Z",
+                "open_issues": 560,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39715,
+                "stars": 39720,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -648,7 +648,7 @@
                 "open_issues": 59,
                 "owner": "meekrosoft",
                 "repo": "fff",
-                "stars": 942,
+                "stars": 944,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -679,8 +679,8 @@
                 "id": 48246447,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-01T17:37:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-09T11:10:22Z",
+                "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
                 "stars": 14879,
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:05:22.141Z",
+    "last_updated": "2026-11-10T07:41:07.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -753,7 +753,7 @@
       "open_issues": 18,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1159,
+      "stars": 1160,
       "topics": [
         "automotive",
         "autosar",

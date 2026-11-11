@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 955,
+                "stars": 958,
                 "topics": [
                   "autosar",
                   "cantp",
@@ -226,7 +226,7 @@
             "open_issues": 4,
             "owner": "manfreddiaz",
             "repo": "awesome-autonomous-vehicles",
-            "stars": 2397,
+            "stars": 2398,
             "topics": [
               "autonomous-cars",
               "autonomous-vehicles",
@@ -307,7 +307,7 @@
                 "open_issues": 52,
                 "owner": "COVESA",
                 "repo": "vsomeip",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": [
                   "automotive",
                   "service-discovery",
@@ -371,7 +371,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4773,
+            "stars": 4774,
             "topics": [
               "automotive",
               "awesome",
@@ -411,7 +411,7 @@
             "open_issues": 7,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2927,
+            "stars": 2928,
             "topics": [
               "architecture",
               "awesome",
@@ -440,11 +440,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-06T04:16:48Z",
-            "open_issues": 288,
+            "last_commit": "2026-11-11T06:27:28Z",
+            "open_issues": 287,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74346,
+            "stars": 74357,
             "topics": [
               "awesome",
               "awesome-list",
@@ -478,7 +478,7 @@
             "open_issues": 22,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9329,
+            "stars": 9333,
             "topics": [
               "ai",
               "autosar",
@@ -602,11 +602,11 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T07:12:31Z",
-                "open_issues": 560,
+                "last_commit": "2026-11-11T05:43:40Z",
+                "open_issues": 561,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39720,
+                "stars": 39727,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -623,11 +623,11 @@
                 "id": 39840932,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T07:12:31Z",
-                "open_issues": 560,
+                "last_commit": "2026-11-11T05:43:40Z",
+                "open_issues": 561,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39720,
+                "stars": 39727,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -648,7 +648,7 @@
                 "open_issues": 59,
                 "owner": "meekrosoft",
                 "repo": "fff",
-                "stars": 944,
+                "stars": 942,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14879,
+                "stars": 14883,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:41:07.609Z",
+    "last_updated": "2026-11-11T06:59:34.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",

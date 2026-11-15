@@ -89,8 +89,8 @@
 
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
-* [as](https://github.com/autoas/as) ⭐ 960 | 🐛 0 | 🌐 C | 📅 2026-10-17 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
-* [autosar](https://github.com/cogu/autosar) ⭐ 505 | 🐛 3 | 🌐 Python | 📅 2026-10-16 ![github] - A set of python modules for working with AUTOSAR XML files.
+* [as](https://github.com/autoas/as) ⭐ 961 | 🐛 0 | 🌐 C | 📅 2026-10-17 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+* [autosar](https://github.com/cogu/autosar) ⭐ 504 | 🐛 3 | 🌐 Python | 📅 2026-10-16 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 * [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
@@ -170,7 +170,7 @@
 
 ### Automotive Ethernet
 
-* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,467 | 🐛 52 | 🌐 C++ | 📅 2026-11-13 - Introduction to SOME/IP based on GENIVI implementation.
+* [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) ⭐ 1,468 | 🐛 52 | 🌐 C++ | 📅 2026-11-13 - Introduction to SOME/IP based on GENIVI implementation.
 * [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
 * [Vector Automotive Ethernet Symposium 2019: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFaUFtXGcJX72EURLY8PWA9) ![video] - In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 * [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180) ![student]  - RFC 1180, short overview on ethernet.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,405 | 🐛 289 | 📅 2026-11-11 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,343 | 🐛 23 | 📅 2026-10-10 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,425 | 🐛 289 | 📅 2026-11-11 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,344 | 🐛 23 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 6 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -342,7 +342,7 @@
 
 ## Testing
 
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,322 | 🐛 0 | 📅 2023-02-01 ![awesome]
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 ![awesome]
 * [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
 * [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 * `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,738 | 🐛 562 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,738 | 🐛 562 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,740 | 🐛 566 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,740 | 🐛 566 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 942 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,891 | 🐛 1 | 🌐 Rust | 📅 2026-11-12 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,896 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 536,558 | 🐛 104 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 537,081 | 🐛 104 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

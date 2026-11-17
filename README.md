@@ -89,7 +89,7 @@
 
 <!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
 
-* [as](https://github.com/autoas/as) ⭐ 962 | 🐛 0 | 🌐 C | 📅 2026-10-17 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+* [as](https://github.com/autoas/as) ⭐ 963 | 🐛 0 | 🌐 C | 📅 2026-10-17 ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
 * [autosar](https://github.com/cogu/autosar) ⭐ 504 | 🐛 3 | 🌐 Python | 📅 2026-10-16 ![github] - A set of python modules for working with AUTOSAR XML files.
 * [Arctic Core](https://github.com/Depthkernelcore/Arccore) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2019-03-18 ![github] - Open source AUTOSAR embedded platform.
 * [autosar-framework](https://github.com/myGiter/autosar-framework) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2015-03-13 ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
@@ -310,7 +310,7 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,450 | 🐛 289 | 📅 2026-11-11 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,470 | 🐛 289 | 📅 2026-11-11 ![awesome]
 * [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,350 | 🐛 24 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 6 | 📅 2025-04-29 ![awesome]
@@ -342,7 +342,7 @@
 
 ## Testing
 
-* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 ![awesome]
+* [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ⭐ 2,322 | 🐛 0 | 📅 2023-02-01 ![awesome]
 * [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
 * [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 * `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,744 | 🐛 566 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,744 | 🐛 566 | 🌐 C++ | 📅 2026-11-13 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,747 | 🐛 567 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,747 | 🐛 567 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 942 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,901 | 🐛 4 | 🌐 Rust | 📅 2026-11-12 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,905 | 🐛 4 | 🌐 Rust | 📅 2026-11-12 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 537,611 | 🐛 104 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 538,187 | 🐛 104 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

@@ -17,7 +17,7 @@
                 "id": 381042777,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T00:23:50Z",
+                "last_commit": "2026-11-18T00:58:03Z",
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
@@ -371,7 +371,7 @@
             "open_issues": 7,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4777,
+            "stars": 4786,
             "topics": [
               "automotive",
               "awesome",
@@ -411,7 +411,7 @@
             "open_issues": 6,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2931,
+            "stars": 2934,
             "topics": [
               "architecture",
               "awesome",
@@ -444,7 +444,7 @@
             "open_issues": 289,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74470,
+            "stars": 74487,
             "topics": [
               "awesome",
               "awesome-list",
@@ -478,7 +478,7 @@
             "open_issues": 24,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9350,
+            "stars": 9353,
             "topics": [
               "ai",
               "autosar",
@@ -519,7 +519,7 @@
             "open_issues": 18,
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3858,
+            "stars": 3861,
             "topics": [
               "awesome",
               "awesome-list",
@@ -545,7 +545,7 @@
             "open_issues": 6,
             "owner": "mikecroucher",
             "repo": "awesome-MATLAB",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2322,
+            "stars": 2323,
             "topics": [
               "courses",
               "ebooks",
@@ -606,7 +606,7 @@
                 "open_issues": 567,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39747,
+                "stars": 39752,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -627,7 +627,7 @@
                 "open_issues": 567,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39747,
+                "stars": 39752,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -648,7 +648,7 @@
                 "open_issues": 59,
                 "owner": "meekrosoft",
                 "repo": "fff",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -683,7 +683,7 @@
                 "open_issues": 4,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14905,
+                "stars": 14907,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:23:55.360Z",
+    "last_updated": "2026-11-18T07:52:39.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",

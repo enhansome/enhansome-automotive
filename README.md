@@ -117,7 +117,7 @@
 
 ### OSEK/VDX
 
-* [Trampoline](https://github.com/TrampolineRTOS/trampoline) ⭐ 759 | 🐛 22 | 🌐 C | 📅 2026-10-19 ![github] - Implementation (LGPL license).
+* [Trampoline](https://github.com/TrampolineRTOS/trampoline) ⭐ 760 | 🐛 22 | 🌐 C | 📅 2026-10-19 ![github] - Implementation (LGPL license).
 * [FreeOSEK](https://github.com/ciaa/firmware_v1) ⭐ 129 | 🐛 103 | 🌐 C | 📅 2020-10-29 ![github] - Implementation (BSD license).
 * [Chalandi Amine OSEK 2.2.3](https://github.com/Chalandi/OSEK) ⭐ 36 | 🐛 0 | 🌐 C | 📅 2023-05-17 ![github] -  Implementation for ARM Cortex M3.
 * [ev3OSEK](https://github.com/ev3osek/ev3osek) ⭐ 13 | 🐛 2 | 🌐 C | 📅 2018-07-27 ![github] - Implementation for the Mindstorms EV3 robots.
@@ -310,8 +310,8 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,520 | 🐛 288 | 📅 2026-11-20 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,361 | 🐛 28 | 📅 2026-10-10 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,538 | 🐛 288 | 📅 2026-11-20 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,365 | 🐛 28 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
 * [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 403 | 🐛 6 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
@@ -350,8 +350,8 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,760 | 🐛 570 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,760 | 🐛 570 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's framework for writing and using C++ mock classes.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,763 | 🐛 571 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,763 | 🐛 571 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's framework for writing and using C++ mock classes.
 * [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 943 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
@@ -363,7 +363,7 @@
 
 ### Static analysis
 
-* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,911 | 🐛 2 | 🌐 Rust | 📅 2026-11-18 ![awesome]
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,913 | 🐛 2 | 🌐 Rust | 📅 2026-11-20 ![awesome]
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 * [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 * [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 539,660 | 🐛 103 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 540,153 | 🐛 103 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

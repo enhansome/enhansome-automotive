@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "autoas",
                 "repo": "as",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "autosar",
                   "cantp",
@@ -122,7 +122,7 @@
                 "open_issues": 22,
                 "owner": "TrampolineRTOS",
                 "repo": "trampoline",
-                "stars": 760,
+                "stars": 762,
                 "topics": [
                   "autosar",
                   "osek-vdx",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "autonomousdrivingkr",
             "repo": "Awesome-Autonomous-Driving",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T12:06:29.835Z"
@@ -371,7 +371,7 @@
             "open_issues": 7,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4793,
+            "stars": 4795,
             "topics": [
               "automotive",
               "awesome",
@@ -411,7 +411,7 @@
             "open_issues": 6,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2934,
+            "stars": 2935,
             "topics": [
               "architecture",
               "awesome",
@@ -444,7 +444,7 @@
             "open_issues": 288,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74538,
+            "stars": 74557,
             "topics": [
               "awesome",
               "awesome-list",
@@ -475,10 +475,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-10-10T10:02:00Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9365,
+            "stars": 9366,
             "topics": [
               "ai",
               "autosar",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "courses",
               "ebooks",
@@ -606,7 +606,7 @@
                 "open_issues": 571,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39763,
+                "stars": 39766,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -627,7 +627,7 @@
                 "open_issues": 571,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39763,
+                "stars": 39766,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14913,
+                "stars": 14915,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:38:15.334Z",
+    "last_updated": "2026-11-22T07:20:59.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",
@@ -753,7 +753,7 @@
       "open_issues": 18,
       "owner": "Marcin214",
       "repo": "awesome-automotive",
-      "stars": 1164,
+      "stars": 1165,
       "topics": [
         "automotive",
         "autosar",

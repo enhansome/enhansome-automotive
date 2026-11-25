@@ -371,7 +371,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4799,
+            "stars": 4800,
             "topics": [
               "automotive",
               "awesome",
@@ -408,7 +408,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-04-19T14:30:02Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
             "stars": 2936,
@@ -444,7 +444,7 @@
             "open_issues": 284,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74596,
+            "stars": 74616,
             "topics": [
               "awesome",
               "awesome-list",
@@ -478,7 +478,7 @@
             "open_issues": 30,
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9372,
+            "stars": 9373,
             "topics": [
               "ai",
               "autosar",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2324,
+            "stars": 2325,
             "topics": [
               "courses",
               "ebooks",
@@ -606,7 +606,7 @@
                 "open_issues": 569,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39775,
+                "stars": 39782,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -627,7 +627,7 @@
                 "open_issues": 569,
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 39775,
+                "stars": 39782,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:29.835Z"
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14922,
+                "stars": 14924,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:20:39.063Z",
+    "last_updated": "2026-11-25T09:01:40.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful and free automotive engineering resources, looking for contributors ❗",

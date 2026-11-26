@@ -236,7 +236,7 @@
 
 ## Cyber Security
 
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,800 | 🐛 5 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,802 | 🐛 5 | 📅 2026-05-30 ![awesome] - Books, hardware, software, applications, car hacking and more.
 * [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
 * [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources.
 * [Vehicle Control Unit Security using Open Source AUTOSAR](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) ![pdf] - Masters Thesis in Software Engineering.
@@ -270,7 +270,7 @@
 
 ## Architecture
 
-* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,936 | 🐛 8 | 📅 2026-04-19 ![awesome]
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,938 | 🐛 9 | 📅 2026-04-19 ![awesome]
 * [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 * [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 * `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20\(2018\)\[7615523].PDF) ![pdf]![book] - Robert C. Martin.
@@ -310,10 +310,10 @@
 
 ## Software Development
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,616 | 🐛 284 | 📅 2026-11-20 ![awesome]
-* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,373 | 🐛 30 | 📅 2026-10-10 ![awesome]
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 74,634 | 🐛 284 | 📅 2026-11-20 ![awesome]
+* [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,376 | 🐛 32 | 📅 2026-10-10 ![awesome]
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived ![awesome]
-* [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 403 | 🐛 6 | 📅 2025-04-29 ![awesome]
+* [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 404 | 🐛 6 | 📅 2025-04-29 ![awesome]
 * [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
 * `2019` [Safe Software for Autonomous Mobility With Modern C++](https://www.youtube.com/watch?v=5WbdLUc9Jls) ![video] - Andreas Pasternak, CppCon.
 * `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware](https://www.youtube.com/watch?v=F4GzsA00s5I) ![video] - Michael Wong, CppCon.
@@ -350,9 +350,9 @@
 
 ### Unit tests
 
-* [Google Test](https://github.com/google/googletest) ⭐ 39,782 | 🐛 569 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's C++ test framework.
-* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,782 | 🐛 569 | 🌐 C++ | 📅 2026-11-17 ![github] - Google's framework for writing and using C++ mock classes.
-* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 943 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
+* [Google Test](https://github.com/google/googletest) ⭐ 39,793 | 🐛 572 | 🌐 C++ | 📅 2026-11-26 ![github] - Google's C++ test framework.
+* [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ⭐ 39,793 | 🐛 572 | 🌐 C++ | 📅 2026-11-26 ![github] - Google's framework for writing and using C++ mock classes.
+* [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ⭐ 947 | 🐛 59 | 🌐 C | 📅 2023-11-02 ![github] - Micro-framework for creating fake C functions for tests.
 * [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 * [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1\&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
 
@@ -403,7 +403,7 @@
 * [engbookspdf](https://www.engbookspdf.com/Automobile/) ![search] - Free access to about 35 automotive books.
 * [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) ![search] - Free access to about 5 automotive books.
 * [eBooks-IT.org](https://ebooks-it.org/) ![search] - Online library for IT ebooks.
-* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 542,514 | 🐛 103 | 📅 2026-09-02 ![awesome]
+* [Free Programming Books](https://github.com/sindresorhus/awesome) ⭐ 543,021 | 🐛 103 | 📅 2026-09-02 ![awesome]
 
 ## Magazines
 
@@ -478,4 +478,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
